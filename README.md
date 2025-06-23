@@ -16,7 +16,9 @@ Python,Scikit-learn, Pandas,Matplotlib / Seaborn,Google Colab. Dataset Features:
 #OUTPUT
 
 Final Accuracy: 1.0
+
 Classification Report:
+
                precision    recall  f1-score   support
 
            0       1.00      1.00      1.00        10
@@ -24,8 +26,9 @@ Classification Report:
            2       1.00      1.00      1.00        11
 
     accuracy                           1.00        30
+   
    macro avg       1.00      1.00      1.00        30
+   
 weighted avg       1.00      1.00      1.00        30
-
 
 ![Image](https://github.com/user-attachments/assets/57c5099e-c284-4b03-b2ae-f75b87c62b55)
